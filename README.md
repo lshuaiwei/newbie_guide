@@ -17,6 +17,8 @@
 - ♿ **无障碍支持** - 遵循 WCAG 无障碍标准
 - 🌐 **国际化** - 支持多语言配置
 
+![](showdemo.gif)
+
 ## 📦 安装
 
 ```bash
@@ -52,7 +54,7 @@ function App() {
       <div className="App">
         {/* 你的应用内容 */}
         <YourAppContent />
-        
+
         {/* 引导组件 */}
         <GuideComponent
           guideId="dashboard"
@@ -410,22 +412,6 @@ export const myGuideSteps = [
 - [React](https://reactjs.org/) - 用户界面库
 - 所有贡献者和社区成员
 
-## 📞 支持
-
-如果你在使用过程中遇到问题，可以通过以下方式获取帮助：
-
-- 🐛 [提交 Issue](https://github.com/your-repo/issues)
-- 💬 [讨论区](https://github.com/your-repo/discussions)
-- 📧 发送邮件到：support@example.com
-
-## 🗺️ 路线图
-
-- [ ] TypeScript 完整支持
-- [ ] 更多预设主题
-- [ ] 引导录制功能
-- [ ] 分析和统计功能
-- [ ] 多步骤引导分支
-- [ ] 条件引导逻辑
 
 ---
 
