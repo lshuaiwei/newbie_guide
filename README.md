@@ -17,7 +17,7 @@
 - ♿ **无障碍支持** - 遵循 WCAG 无障碍标准
 - 🌐 **国际化** - 支持多语言配置
 
-![](showdemo.gif)
+![Demo](public/showdemo.gif)
 
 ## 📦 安装
 
